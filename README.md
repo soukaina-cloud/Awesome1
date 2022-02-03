@@ -1,5 +1,5 @@
 ## Awesome
-"Awesome" website makes it easy for you &  helps you do whatever you want
+"Awesome" website makes it easy for you & helps you get answers to your question
 ## Prerequisites
 Go-Hugo / Make /  Makefile /  dist/ committed
 ## Lifecycle
