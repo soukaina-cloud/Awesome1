@@ -1,4 +1,4 @@
-## Prerequisites
+## Awesome
 Awesome website makes it easy for you &  helps you do whatever you want
 ## Prerequisites
 Go-Hugo / Make /  Makefile /  dist/ committed
